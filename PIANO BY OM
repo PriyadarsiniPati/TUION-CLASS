@@ -1,0 +1,638 @@
+<html lang="en" class="no-js">
+
+<head>
+    <script async="" type="text/javascript" src="https://cdn.fuseplatform.net/publift/tags/2/2548/prebid.js"></script>
+    <script async="" type="text/javascript"
+        src="https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=www.musicca.com"></script>
+    <script async="" type="text/javascript" src="https://quantcast.mgr.consensu.org/cmp.js"></script>
+    <script async="" type="text/javascript" src="https://quantcast.mgr.consensu.org/cmp.js"></script>
+    <script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script async="" type="text/javascript" src="https://publift-com.videoplayerhub.com/galleryplayer.js"></script>
+    <script async="" type="text/javascript" src="https://quantcast.mgr.consensu.org/choice.js"></script>
+    <script async="" type="text/javascript"
+        src="https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=www.musicca.com"></script>
+    <script async="" type="text/javascript" src="https://quantcast.mgr.consensu.org/cmp.js"></script>
+    <script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script async="" type="text/javascript" src="https://publift-com.videoplayerhub.com/galleryplayer.js"></script>
+    <script async="" type="text/javascript" src="https://quantcast.mgr.consensu.org/choice.js"></script>
+    <script type="text/javascript" async="" src="https://static.criteo.net/js/ld/publishertag.prebid.js"></script>
+    <link rel="canonical" href="https://www.musicca.com/piano">
+    <base href="https://www.musicca.com/piano">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="description"
+        content="Virtual piano for music teachers and students. Visualize notes, intervals, chords, scales, and play the piano using your computer keyboard.">
+    <title>Virtual piano – by omm</title>
+    <link href="/modules/mod_ads/css/style.css?v=1637434182" rel="stylesheet" type="text/css">
+    <script async="" type="text/javascript" src="https://cdn.fuseplatform.net/publift/tags/2/2548/prebid.js"></script>
+    <script async="" type="text/javascript"
+        src="https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=www.musicca.com"></script>
+    <script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script async="" type="text/javascript" src="https://publift-com.videoplayerhub.com/galleryplayer.js"></script>
+    <script async="" type="text/javascript"
+        src="https://quantcast.mgr.consensu.org/choice/PRrmquD1Ggcb1/www.musicca.com/choice.js"></script>
+    <script type="application/json"
+        class="joomla-script-options loaded">{"joomla.jtext":{"ERROR":"Error"},"csrf.token":"fb25106b9b2b8f74127459399421cff6","system.paths":{"root":"","base":""},"system.keepalive":{"interval":3600000,"uri":"\/component\/ajax\/?format=json"},"mod_ads":{"url":"https:\/\/cdn.fuseplatform.net\/publift\/tags\/2\/2548\/fuse.js"}}</script>
+    <script src="/media/jui/js/jquery.min.js?8aed0becf2367491c4aceb1ef29aceff"></script>
+    <script src="/media/system/js/core.js?8aed0becf2367491c4aceb1ef29aceff"></script>
+    <script src="/media/system/js/keepalive.js?8aed0becf2367491c4aceb1ef29aceff" defer="defer"></script>
+    <script src="/media/jui/js/bootstrap.min.js?8aed0becf2367491c4aceb1ef29aceff"></script>
+    <script src="/modules/mod_ads/js/width_test.js" async="async"></script>
+    <script>
+        jQuery(window).on('load', function () {
+
+        });
+        jQuery(function ($) { initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips(event, container) { container = container || document; $(container).find(".hasTooltip").tooltip({ "html": true, "container": "body" }); } });
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600&amp;display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/templates/musicca/css/screen.min.css?v=1637434182">
+    <link rel="icon" type="image/png" href="/templates/musicca/images/favicon.png">
+    <script defer="" src="/scripts/tooltip/opentip-native-excanvas.min.js"></script>
+    <script defer="" src="/templates/musicca/js/app.min.js?v=80"></script>
+    <script>window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date; ga('set', 'anonymizeIp', true); ga('create', 'UA-8155549-20', 'auto'); ga('send', 'pageview');</script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script>
+    <script src="https://cdn.fuseplatform.net/publift/tags/2/2548/fuse.js"></script>
+    <script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021111601.js" async=""></script>
+    <style type="text/css">
+        .qc-cmp-button {
+            background-color: #72AC51 !important;
+            border-color: #72AC51 !important;
+        }
+
+        .qc-cmp-button:hover {
+            border-color: #72AC51 !important;
+        }
+
+        .qc-cmp-alt-action,
+        .qc-cmp-link {
+            color: #72AC51 !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            background-color: #72AC51 !important;
+            border-color: #72AC51 !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            color: #ffffff !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button {
+            color: #72AC51 !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button {
+            background-color: #eee !important;
+            border-color: transparent !important;
+        }
+
+        .qc-cmp-ui a,
+        .qc-cmp-ui .qc-cmp-alt-action {
+            color: #878787 !important;
+        }
+
+        #qc-cmp2-ui button[mode="link"] {
+            text-decoration: none;
+            color: #878787;
+            transition: 0.25s ease;
+        }
+    </style>
+    <link rel="preload" href="https://adservice.google.co.in/adsid/integrator.js?domain=www.musicca.com" as="script">
+    <script type="text/javascript"
+        src="https://adservice.google.co.in/adsid/integrator.js?domain=www.musicca.com"></script>
+    <link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.musicca.com" as="script">
+    <script type="text/javascript"
+        src="https://adservice.google.com/adsid/integrator.js?domain=www.musicca.com"></script>
+    <script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021111601.js" async=""></script>
+    <style type="text/css">
+        .qc-cmp-button {
+            background-color: #72AC51 !important;
+            border-color: #72AC51 !important;
+        }
+
+        .qc-cmp-button:hover {
+            border-color: #72AC51 !important;
+        }
+
+        .qc-cmp-alt-action,
+        .qc-cmp-link {
+            color: #72AC51 !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            background-color: #72AC51 !important;
+            border-color: #72AC51 !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            color: #ffffff !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button {
+            color: #72AC51 !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button {
+            background-color: #eee !important;
+            border-color: transparent !important;
+        }
+
+        .qc-cmp-ui a,
+        .qc-cmp-ui .qc-cmp-alt-action {
+            color: #878787 !important;
+        }
+
+        #qc-cmp2-ui button[mode="link"] {
+            text-decoration: none;
+            color: #878787;
+            transition: 0.25s ease;
+        }
+    </style>
+    <style type="text/css">
+        .qc-cmp-button {
+            background-color: #72AC51 !important;
+            border-color: #72AC51 !important;
+        }
+
+        .qc-cmp-button:hover {
+            border-color: #72AC51 !important;
+        }
+
+        .qc-cmp-alt-action,
+        .qc-cmp-link {
+            color: #72AC51 !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            background-color: #72AC51 !important;
+            border-color: #72AC51 !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            color: #ffffff !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button {
+            color: #72AC51 !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button {
+            background-color: #eee !important;
+            border-color: transparent !important;
+        }
+
+        .qc-cmp-ui a,
+        .qc-cmp-ui .qc-cmp-alt-action {
+            color: #878787 !important;
+        }
+
+        #qc-cmp2-ui button[mode="link"] {
+            text-decoration: none;
+            color: #878787;
+            transition: 0.25s ease;
+        }
+    </style>
+    <meta http-equiv="origin-trial"
+        content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+    <meta http-equiv="origin-trial"
+        content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
+    <meta http-equiv="origin-trial"
+        content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
+    <meta http-equiv="origin-trial"
+        content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
+    <meta http-equiv="origin-trial"
+        content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+    <meta http-equiv="origin-trial"
+        content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9">
+    <meta http-equiv="origin-trial"
+        content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9">
+    <meta http-equiv="origin-trial"
+        content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9">
+    <script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021111601.js" async=""></script>
+</head>
+
+<body class="en-GB is-desktop">
+    <div style="display: none;">
+    </div>
+
+    <div class="fix__content">
+        <div class="wrapper">
+
+            <div class="container" style="
+    margin-left: 0px;
+    margin-right: 0px;
+">
+                <div class="row flex__row">
+                    <aside class="navigation__left col-3-m">
+
+                    </aside>
+                    <script>
+
+                        (function () {
+
+                            // ---------Header menu highlight active item--------
+
+                            var sideBarHeaderLink = jQuery('.navigation__left .left-nav a');
+
+
+
+                            if (sideBarHeaderLink.length) {
+
+                                var headerMenuLinks = jQuery('.navigation__top .menu__item .top_level');
+
+
+
+                                if (headerMenuLinks.length) {
+
+                                    for (var i = 0; i < headerMenuLinks.length; i++) {
+
+                                        headerMenuLinks[i].innerHTML == sideBarHeaderLink.text() ?
+
+                                            headerMenuLinks[i].parentElement.classList.add('active') :
+
+                                            headerMenuLinks[i].parentElement.classList.remove('active');
+
+                                    }
+
+                                }
+
+                            }
+
+                            // ---------End Header menu highlight active item--------
+
+                        })();
+
+                    </script>
+                    <div class="content__right col-9-m col-">
+                        <div id="system-message-container">
+                        </div>
+                        <article class="default__content item-page " itemscope="" itemtype="https://schema.org/Article">
+                            <meta itemprop="inLanguage" content="en">
+
+                            <div class="page-header default__page__header">
+                                <h1 class="h1 default__page__title" itemprop="name">
+                                    Virtual piano by omm </h1>
+                            </div>
+
+
+                            <div itemprop="articleBody" style="
+        width: 800px;
+        height: 300px;
+    ">
+                                <div class="default__page__content">
+                                    <link rel="stylesheet" href="/scripts/piano/piano.min.css">
+                                    <div id="piano" style="
+        height: 300px;
+    ">
+                                        <div class="btn-group-piano">
+                                            <button class="mark">Mark</button>
+                                            <button class="hideNotes">Hide note names</button>
+                                            <button class="playAll hidden">Play</button>
+                                            <button class="clear btn-reset hidden">Clear</button>
+                                        </div>
+                                        <div class="piano-wrapper">
+                                            <ul class="piano">
+                                                <li class="key">
+                                                    <span class="white-key" data-key="90" data-note="1c"><i
+                                                            class="">C</i></span>
+                                                    <span class="black-key" data-key="83" data-note="1cis"><i
+                                                            class=""><span><span>C</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>D</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="88" data-note="1d"><i
+                                                            class="">D</i></span>
+                                                    <span class="black-key" data-key="68" data-note="1dis"><i
+                                                            class=""><span><span>D</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>E</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="67" data-note="1e"><i
+                                                            class="">E</i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="81" data-note="1f"><i
+                                                            class="">F</i></span>
+                                                    <span class="black-key" data-key="50" data-note="1fis"><i
+                                                            class=""><span><span>F</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>G</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="87" data-note="1g"><i
+                                                            class="">G</i></span>
+                                                    <span class="black-key" data-key="51" data-note="1gis"><i
+                                                            class=""><span><span>G</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>A</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="69" data-note="2a"><i
+                                                            class="">A</i></span>
+                                                    <span class="black-key" data-key="52" data-note="2ais"><i
+                                                            class=""><span><span>A</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>B</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="82" data-note="2b"><i
+                                                            class="">B</i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="84" data-note="2c"><i
+                                                            class="">C</i></span>
+                                                    <span class="black-key" data-key="54" data-note="2cis"><i
+                                                            class=""><span><span>C</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>D</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="89" data-note="2d"><i
+                                                            class="">D</i></span>
+                                                    <span class="black-key" data-key="55" data-note="2dis"><i
+                                                            class=""><span><span>D</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>E</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="85" data-note="2e"><i
+                                                            class="">E</i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="73" data-note="2f"><i
+                                                            class="">F</i></span>
+                                                    <span class="black-key" data-key="57" data-note="2fis"><i
+                                                            class=""><span><span>F</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>G</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="79" data-note="2g"><i
+                                                            class="">G</i></span>
+                                                    <span class="black-key" data-key="48" data-note="2gis"><i
+                                                            class=""><span><span>G</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>A</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="80" data-note="3a"><i
+                                                            class="">A</i></span>
+                                                    <span class="black-key" data-key="187" data-additional-key="189"
+                                                        data-note="3ais"><i class=""><span><span>A</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>B</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="219" data-note="3b"><i
+                                                            class="">B</i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="221" data-note="3c"><i
+                                                            class="">C</i></span>
+                                                    <span class="black-key" data-key="70" data-note="3cis"><i
+                                                            class=""><span><span>C</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>D</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="86" data-note="3d"><i
+                                                            class="">D</i></span>
+                                                    <span class="black-key" data-key="71" data-note="3dis"><i
+                                                            class=""><span><span>D</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>E</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="66" data-note="3e"><i
+                                                            class="">E</i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="78" data-note="3f"><i
+                                                            class="">F</i></span>
+                                                    <span class="black-key" data-key="74" data-note="3fis"><i
+                                                            class=""><span><span>F</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>G</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="77" data-note="3g"><i
+                                                            class="">G</i></span>
+                                                    <span class="black-key" data-key="75" data-note="3gis"><i
+                                                            class=""><span><span>G</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>A</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="188" data-note="4a"><i
+                                                            class="">A</i></span>
+                                                    <span class="black-key" data-key="76" data-note="4ais"><i
+                                                            class=""><span><span>A</span><span class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♯</span></span><span><span>B</span><span
+                                                                    class="piano-accidental"
+                                                                    style="font-family: &quot;Arial Unicode MS&quot;, &quot;Lucida Sans Unicode&quot;;">♭</span></span></i></span>
+                                                </li>
+                                                <li class="key">
+                                                    <span class="white-key" data-key="190" data-note="4b"><i
+                                                            class="">B</i></span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <script
+                                        src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.15/howler.core.min.js"></script>
+                                    <script>
+                                        // PIANO TRANSLATION PART
+                                        var PIANO_TRANSLATION = {
+                                            url: 'piano?',
+                                            buttonNames: {
+                                                markNotes: 'Mark',
+                                                showHideNotes: {
+                                                    show: 'Show note names',
+                                                    hide: 'Hide note names'
+                                                },
+                                                playNotes: 'Play',
+                                                reset: 'Clear'
+                                            },
+                                            noteNames: {
+                                                c: 'C',
+                                                cis:
+                                                    '<span><span>C</span><span class="piano-accidental">♯</span></span></span>' +
+                                                    '<span><span>D</span><span class="piano-accidental">♭</span></span></span>',
+                                                d: 'D',
+                                                dis:
+                                                    '<span><span>D</span><span class="piano-accidental">♯</span></span></span>' +
+                                                    '<span><span>E</span><span class="piano-accidental">♭</span></span></span>',
+                                                e: 'E',
+                                                f: 'F',
+                                                fis:
+                                                    '<span><span>F</span><span class="piano-accidental">♯</span></span></span>' +
+                                                    '<span><span>G</span><span class="piano-accidental">♭</span></span></span>',
+                                                g: 'G',
+                                                gis:
+                                                    '<span><span>G</span><span class="piano-accidental">♯</span></span></span>' +
+                                                    '<span><span>A</span><span class="piano-accidental">♭</span></span></span>',
+                                                a: 'A',
+                                                ais:
+                                                    '<span><span>A</span><span class="piano-accidental">♯</span></span></span>' +
+                                                    '<span><span>B</span><span class="piano-accidental">♭</span></span></span>',
+                                                b: 'B',
+                                            },
+                                            keys: {
+                                                '1c': [90],
+                                                '1cis': [83],
+                                                '1d': [88],
+                                                '1dis': [68],
+                                                '1e': [67],
+                                                '1f': [81],
+                                                '1fis': [50],
+                                                '1g': [87],
+                                                '1gis': [51],
+                                                '2a': [69],
+                                                '2ais': [52],
+                                                '2b': [82],
+                                                '2c': [84],
+                                                '2cis': [54],
+                                                '2d': [89],
+                                                '2dis': [55],
+                                                '2e': [85],
+                                                '2f': [73],
+                                                '2fis': [57],
+                                                '2g': [79],
+                                                '2gis': [48],
+                                                '3a': [80],
+                                                '3ais': [187, 189, 173, 8],
+                                                '3b': [219],
+                                                '3c': [221],
+                                                '3cis': [70],
+                                                '3d': [86],
+                                                '3dis': [71],
+                                                '3e': [66],
+                                                '3f': [78],
+                                                '3fis': [74],
+                                                '3g': [77],
+                                                '3gis': [75],
+                                                '4a': [188],
+                                                '4ais': [76],
+                                                '4b': [190]
+                                            }
+                                        }
+                                    </script>
+                                    <script src="/scripts/piano/piano.min.js"></script><iframe
+                                        src="https://2bf381163383f4612051cf25814e0226.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html"
+                                        style="visibility: hidden; display: none;"></iframe>
+                                    <br><br>
+                                </div>
+                            </div>
+
+                        </article>
+                        <div class="after__content">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <div class="login__modal">
+        <div class="modal__login desktop__modal__login">
+            <div class="modalregbg"></div>
+            <div class="modal__login__container">
+                <div class="close__modal"></div>
+
+                <a class="submit-form-button button btn btn-primary validate button--red w100p mb15px p1em"
+                    href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;access_type=offline&amp;client_id=959580407641-62rpmksfptna0hjk4v9stka38cm6is8t.apps.googleusercontent.com&amp;redirect_uri=https%3A%2F%2Fwww.musicca.com%2Flog-in%2Fgoogle&amp;state&amp;scope=profile%20email&amp;approval_prompt=auto">
+                    Google</a>
+                <a class="submit-form-button button btn btn-primary validate button--blue w100p p1em"
+                    href="https://www.facebook.com/v2.10/dialog/oauth?client_id=232027970950015&amp;state=21bd18b454e4932a162ab8e763cf438c&amp;response_type=code&amp;sdk=php-sdk-5.6.3&amp;redirect_uri=https%3A%2F%2Fwww.musicca.com%2Flog-in%2Ffb&amp;scope=email">
+                    Facebook</a>
+
+                <div class="popup-separator">or</div>
+                <form action="https://www.musicca.com/piano" method="post" id="mod-login-form" class="form-inline">
+                    <div class="userdata row">
+                        <div class="modal__login__form">
+                            <div id="form-login-username" class="control-group modal__login__controls">
+                                <div class="controls">
+                                    <input type="text" id="modlgn-username" name="username"
+                                        class="input-small modal__input" tabindex="0" size="18" placeholder="Email">
+                                </div>
+                            </div>
+                            <div id="form-login-password" class="control-group modal__login__controls login__password">
+                                <div class="controls">
+                                    <input id="modlgn-passwd" type="password" name="password"
+                                        class="input-small modal__input" tabindex="0" size="18" placeholder="Password">
+                                </div>
+                            </div>
+                            <input type="hidden" name="remember" value="1">
+                            <button type="submit" tabindex="0" name="Submit"
+                                class="button btn btn-default w100p p1em">Log in</button>
+                            <input type="hidden" name="option" value="com_users">
+                            <input type="hidden" name="task" value="user.login">
+                            <input type="hidden" name="return" value="aHR0cHM6Ly93d3cubXVzaWNjYS5jb20vcGlhbm8=">
+                            <input type="hidden" name="fb25106b9b2b8f74127459399421cff6" value="1">
+                            <ul class="unstyled">
+                                <li id="form-login-forgotten"><a href="/login?view=reset">Forgot your password?</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <iframe name="__tcfapiLocator" style="display: none;"></iframe><img
+        src="https://ad.doubleclick.net/favicon.ico?ad=300x250&amp;ad_box_=1&amp;adnet=1&amp;showad=1&amp;size=250x250"
+        style="display: none !important; width: 1px !important; height: 1px !important;"><img
+        src="https://ad-delivery.net/px.gif?ch=1&amp;e=0.07652569751482363"
+        style="display: none !important; width: 1px !important; height: 1px !important;"><iframe
+        src="https://gum.criteo.com/syncframe?origin=publishertag&amp;topUrl=www.musicca.com&amp;gdpr=0&amp;gdpr_consent=#{&quot;optout&quot;:{&quot;value&quot;:false,&quot;origin&quot;:0},&quot;uid&quot;:{&quot;origin&quot;:0},&quot;sid&quot;:{&quot;origin&quot;:0},&quot;origin&quot;:&quot;publishertag&quot;,&quot;version&quot;:116,&quot;lwid&quot;:{&quot;origin&quot;:0},&quot;tld&quot;:&quot;musicca.com&quot;,&quot;bundle&quot;:{&quot;origin&quot;:0},&quot;topUrl&quot;:&quot;www.musicca.com&quot;,&quot;cw&quot;:true,&quot;ifa&quot;:{&quot;origin&quot;:0},&quot;lsw&quot;:true}"
+        id="criteo-syncframe-pbt" style="display: none;"></iframe><iframe
+        src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe><iframe
+        sandbox="allow-scripts allow-same-origin" id="521fe8d07aa4f21" frameborder="0" allowtransparency="true"
+        marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="https://cdn.connectad.io/connectmyusers.php?">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="537e68c5a893b26" frameborder="0"
+        allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no"
+        src="https://jp-u.openx.net/w/1.0/pd?plm=6&amp;ph=eb072722-647b-4387-849c-a8e12a214991&amp;gdpr=0">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="5416045eef08f7c" frameborder="0"
+        allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no"
+        src="https://ssc-cms.33across.com/ps/?m=xch&amp;rt=html&amp;ru=deb&amp;id=aWQP10egOr7ikTaKj0P0Le&amp;gdpr_consent=undefined&amp;us_privacy=undefined&amp;gdpr=0">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="55de5a9b6c6c683" frameborder="0"
+        allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="https://eus.rubiconproject.com/usync.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="563a5cdbe404f4f" frameborder="0"
+        allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="https://eb2.3lift.com/sync?">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="5797abc6e75be8c" frameborder="0"
+        allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no"
+        src="https://ads.pubmatic.com/AdServer/js/showad.js#PIX&amp;kdntuid=1&amp;p=156762&amp;gdpr=0&amp;gdpr_consent=">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="5881870a58e083" frameborder="0"
+        allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0"
+        style="height:0px;width:0px;display:none;" scrolling="no" src="https://acdn.adnxs.com/dmp/async_usersync.html">
+    </iframe><iframe name="__cmpLocator" style="display: none;"></iframe>
+
+
+</body>
+
+</html>
